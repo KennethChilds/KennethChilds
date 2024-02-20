@@ -1,8 +1,7 @@
 # 💫 About Me:
-- I'm a high school student interested in finance, computer science,
-entrepreneurship, and the intersection between them. 
-
-- Currently building useful software that I find interesting
+I'm a high school student interested in finance, computer science,
+entrepreneurship, and the intersection between them. <br/>
+Currently building useful software that I find interesting
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kennychilds_) 
