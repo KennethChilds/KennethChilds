@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm a high school student interested in finance, computer science,
-entrepreneurship, and the intersection between them. <br/>
+entrepreneurship, and the intersection between them.
+<br/>
+<br/>
 Currently building useful software that I find interesting
 
 ## 🌐 Socials:
